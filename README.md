@@ -46,5 +46,6 @@ How to use:
 Git clone : https://github.com/alikaylanisha/Indonesian-Game-Chat-Toxic-Spans.git
 
 Licensing
+
 - Derived Data (DATA/): Distributed under the Community Data License Agreement – Sharing, Version 1.0 (CDLA-Sharing-1.0). See data/DATA_LICENSE or cdla.dev/sharing-1-0. Any downstream sharing or modification of this derived data must remain under CDLA-Sharing-1.0.
 - Source Code : Distributed under the MIT License. See LICENSE for details.
