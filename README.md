@@ -34,9 +34,9 @@ Original License: Community Data License Agreement – Sharing, Version 1.0 (CDL
 
 Summary of Modifications:
 
-Sampling: Selected a curated subset of records rather than the full original dataset.
-Schema Restructuring: Converted the original CSV of chat and category columns into IOB format in json
-Re-annotation: Manually re-annotated the text spans to label specific named entities: [TOXIC]
+- Sampling: Selected a curated subset of records rather than the full original dataset.
+- Schema Restructuring: Converted the original CSV of chat and category columns into IOB format in json
+- Re-annotation: Manually re-annotated the text spans to label specific named entities: [TOXIC, O]
 
 Example:
 {"tokens": ["gg", "main", "lo", "keren", "bro"], "ner_tags": ["O", "O", "O", "O", "O"]}
